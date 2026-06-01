@@ -1,3 +1,4 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
 # 🧠 Cognitive Monolith
 
 A fully modular, deterministic, and invariant‑driven cognitive architecture combining:
